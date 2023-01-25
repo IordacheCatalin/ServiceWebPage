@@ -1,0 +1,53 @@
+.Logo {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.Content {
+    display: flex;
+    max-width: 1600px;
+    margin: 20px auto;
+    padding: 0px 40px;
+    gap:64px;
+    flex-wrap: wrap;
+}
+
+.box1 {
+    display: flex;
+    flex:4;
+    flex-direction: column;
+    
+}
+
+.box2 {
+    display: flex;
+    flex:1;
+    flex-direction: column;
+    background-color: lightgrey;
+    padding: 5px 5px 5px 5px;
+    min-width: 250px;
+}
+
+.title {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+  color: #007cb1;
+  font-weight: 700;
+}
+
+.normal {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 16px;
+  color: #525252;
+  font-weight: 500;
+}
+
+.bold {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 16px;
+  color: #000000;
+  font-weight: 700;
+}

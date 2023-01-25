@@ -1,0 +1,36 @@
+.container {
+    max-width: 1400px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px auto;
+    border: solid 1px;
+    border-radius: 20px;
+    background: radial-gradient(#1fe4f5, #3fbafe);
+}
+
+.input {
+    background: radial-gradient(#1fe4f5, #3fbafe); 
+    text-align: center;
+    color: white;
+margin-top: 20px;
+text-decoration: none;
+border-radius: 20px;
+font-size: 28px;
+font-weight: 600;
+
+
+}
+
+p {
+    font-size: 22px;
+}
+
+.Top {
+    margin-top: 20px;
+}
+
+.description {
+    font-size: 22px;
+
+}

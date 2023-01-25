@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "image": "images/SchimbUlei.jpg",
+      "title": "Schimb ulei+filtre Volkswagen Passat",
+      "description": "Cu experienţă de peste 12 ani în reparaţii şi lucrări de întreţinere pentru branduri multimarcă, specialiştii noștri au soluţii pentru ca mașina ta să funcționeze în parametri optimi mult timp de acum înainte.",
+      "price": "650 RON"
+    },
+
+    {
+        "id": 2,
+        "image": "images/SchimbUleiAlfa.jpg",
+        "title": "Schimb ulei+filtre Alfa Romeo",
+        "description": "Cu experienţă de peste 12 ani în reparaţii şi lucrări de întreţinere pentru branduri multimarcă, specialiştii noștri au soluţii pentru ca mașina ta să funcționeze în parametri optimi mult timp de acum înainte.",
+        "price": "800 RON"
+      },
+
+      {
+        "id": 3,
+        "image": "images/SchimbUleiOpel.jpg",
+        "title": "Schimb ulei+filtre Opel 2018<",
+        "description": "Cu experienţă de peste 12 ani în reparaţii şi lucrări de întreţinere pentru branduri multimarcă, specialiştii noștri au soluţii pentru ca mașina ta să funcționeze în parametri optimi mult timp de acum înainte.",
+        "price": "500 RON"
+      },
+
+      {
+        "id": 4,
+        "image": "images/SchimbUlei.jpg",
+        "title": "Schimb ulei+filtre Passat 2014 >",
+        "description": "Cu experienţă de peste 12 ani în reparaţii şi lucrări de întreţinere pentru branduri multimarcă, specialiştii noștri au soluţii pentru ca mașina ta să funcționeze în parametri optimi mult timp de acum înainte.",
+        "price": "850 RON"
+      },
+
+      {
+        "id": 5,
+        "image": "images/SchimbUleiAlfa.jpg",
+        "title": "Schimb ulei+filtre Porsche",
+        "description": "Cu experienţă de peste 12 ani în reparaţii şi lucrări de întreţinere pentru branduri multimarcă, specialiştii noștri au soluţii pentru ca mașina ta să funcționeze în parametri optimi mult timp de acum înainte.",
+        "price": "1200 RON"
+      },
+
+      {
+        "id": 6,
+        "image": "images/SchimbUlei.jpg",
+        "title": "Schimb ulei+filtre Volkswagen Passat",
+        "description": "Cu experienţă de peste 12 ani în reparaţii şi lucrări de întreţinere pentru branduri multimarcă, specialiştii noștri au soluţii pentru ca mașina ta să funcționeze în parametri optimi mult timp de acum înainte.",
+        "price": "650 RON"
+      },
+      {
+        "id": 7,
+        "image": "images/SchimbUleiAlfa.jpg",
+        "title": "Schimb ulei+filtre Porsche",
+        "description": "Cu experienţă de peste 12 ani în reparaţii şi lucrări de întreţinere pentru branduri multimarcă, specialiştii noștri au soluţii pentru ca mașina ta să funcționeze în parametri optimi mult timp de acum înainte.",
+        "price": "1200 RON"
+      },
+
+      {
+        "id": 8,
+        "image": "images/SchimbUleiAlfa.jpg",
+        "title": "Schimb ulei+filtre Porsche",
+        "description": "Cu experienţă de peste 12 ani în reparaţii şi lucrări de întreţinere pentru branduri multimarcă, specialiştii noștri au soluţii pentru ca mașina ta să funcționeze în parametri optimi mult timp de acum înainte.",
+        "price": "1200 RON"
+      }
+    
+    
+    
+    ]
+    

@@ -1,0 +1,44 @@
+.responsive {
+    display: flex;
+    flex: 1.5;
+    border: solid transparent;
+    border-radius: 20px;
+  
+    overflow: hidden;
+  
+    padding-bottom: 35%;
+  
+    position: relative;
+  
+    height: 0;
+    &.map {
+      left: 0;
+  
+      top: 0;
+  
+      height: 100%;
+  
+      width: 100%;
+  
+      position: absolute;
+    }
+  }
+
+  .container {
+    display: flex;
+    max-width: 1600px;
+    margin: 0 auto;
+   flex-wrap: wrap;
+   margin-top: 20px;
+   gap:24px;
+   padding-left: 14px;
+  align-items: center;
+  padding-right: 14px;
+  
+  }
+
+  .Data {
+    display: flex;
+    flex-direction: column;
+    flex:1;
+  }

@@ -1,0 +1,55 @@
+.container {
+  display: flex;
+  max-width: 1600px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  gap: 24px;
+  padding-left: 14px;
+  align-items: center;
+}
+
+.input {
+  display: flex;
+  font-weight: 500;
+  font-size: 18px;
+  min-width: 300px;
+  flex: 1;
+  flex-direction: column;
+}
+
+.responsive {
+  display: flex;
+  flex: 1.5;
+  border: solid transparent;
+  border-radius: 20px;
+
+  overflow: hidden;
+
+  padding-bottom: 35%;
+
+  position: relative;
+
+  height: 0;
+  min-width: 350px;
+  &.map {
+    left: 0;
+
+    top: 0;
+
+    height: 100%;
+
+    width: 100%;
+
+    position: absolute;
+  }
+}
+
+.Data {
+  display: flex;
+  max-width: 1600px;
+  margin: 0 auto;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+}
