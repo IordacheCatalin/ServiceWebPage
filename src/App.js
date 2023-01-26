@@ -1,6 +1,6 @@
 import Navbar from "./Components/Navbar/navbar";
 import React from "react";
-import { BrowserRouter, Routes, Route} from "react-router-dom";
+import { Routes, Route} from "react-router-dom";
 
 
 import Home from "./Pages/Home/home";
@@ -14,7 +14,7 @@ import Vremea from "./Components/Vremea/vremea"
 function App() {
   return (
     
-    <BrowserRouter>
+    <>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -28,7 +28,7 @@ function App() {
         <Route path="/vremea" element={<Vremea />} />
       </Routes>
       
-    </BrowserRouter>
+    </>
     
   );
 }
