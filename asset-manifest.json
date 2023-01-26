@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ServiceWebPage/static/css/main.99064455.css",
-    "main.js": "/ServiceWebPage/static/js/main.5aaf4ea3.js",
+    "main.js": "/ServiceWebPage/static/js/main.0acf3c29.js",
     "static/media/fa-solid-900.svg": "/ServiceWebPage/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/Mercedes.png": "/ServiceWebPage/static/media/Mercedes.7e9cf90ff51d05698e97.png",
     "static/media/fa-brands-400.svg": "/ServiceWebPage/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -35,10 +35,10 @@
     "static/media/Peugeot.svg": "/ServiceWebPage/static/media/Peugeot.c3b20173fbf52883154491aa72a038ac.svg",
     "index.html": "/ServiceWebPage/index.html",
     "main.99064455.css.map": "/ServiceWebPage/static/css/main.99064455.css.map",
-    "main.5aaf4ea3.js.map": "/ServiceWebPage/static/js/main.5aaf4ea3.js.map"
+    "main.0acf3c29.js.map": "/ServiceWebPage/static/js/main.0acf3c29.js.map"
   },
   "entrypoints": [
     "static/css/main.99064455.css",
-    "static/js/main.5aaf4ea3.js"
+    "static/js/main.0acf3c29.js"
   ]
 }
