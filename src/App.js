@@ -1,6 +1,6 @@
 import Navbar from "./Components/Navbar/navbar";
 import React from "react";
-import { Routes, Route } from "react-router-dom";
+import {BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Home from "./Pages/Home/home";
 import Servicii from "./Pages/Servicii/servicii";
@@ -12,22 +12,22 @@ import Vremea from "./Components/Vremea/vremea";
 
 const App = () => {
   return (
-    <>
+    <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="" element={<Home />} />
-        <Route path="*" element={<Home />} />
-        <Route path="/ServiceWebPage" element={<Home />} />
-        <Route path="/Home" element={<Home />} />
-        <Route path="/Servicii" element={<Servicii />} />
-        <Route path="/DespreNoi" element={<DespreNoi />} />
-        <Route path="/serviciiCard" element={<ServiciiCard />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/locatii" element={<Locatii />} />
-        <Route path="/vremea" element={<Vremea />} />
+        <Route path="/" element={<Home/>} />
+        <Route path="" element={<Home/>} />
+        <Route path="*" element={<Home/>} />
+        <Route path="/ServiceWebPage" element={<Home/>} />
+        <Route path="/Home" element={<Home/>} />
+        <Route path="/Servicii" element={<Servicii/>} />
+        <Route path="/DespreNoi" element={<DespreNoi/>} />
+        <Route path="/serviciiCard" element={<ServiciiCard/>} />
+        <Route path="/contact" element={<Contact/>} />
+        <Route path="/locatii" element={<Locatii/>} />
+        <Route path="/vremea" element={<Vremea/>} />
       </Routes>
-    </>
+      </BrowserRouter>   
   );
 };
 
