@@ -4,6 +4,7 @@ import Form from "react-bootstrap/Form";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
+import React from "react";
 import styles from "./navbar.module.scss";
 
 
@@ -20,11 +21,12 @@ import Skoda from "../../Assets/ImageLogo/Skoda.png";
 import Porsche from "../../Assets/ImageLogo/Porsche.png";
 import FavIcon from "../../Assets/favicon-32x32.png";
 
-import React from "react";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 function NavBarSite() {
+
   return (
     <div>
       <div className={styles.Logo}>

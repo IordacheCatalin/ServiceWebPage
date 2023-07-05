@@ -1,6 +1,7 @@
 import Navbar from "./Components/Navbar/navbar";
 import React from "react";
-import {BrowserRouter, Routes, Route, HashRouter  } from "react-router-dom";
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+
 
 import Home from "./Pages/Home/home";
 import Servicii from "./Pages/Servicii/servicii";
@@ -11,6 +12,7 @@ import Locatii from "./Pages/Locatii/locatii";
 import Vremea from "./Components/Vremea/vremea";
 
 const App = () => {
+  
   return (
     <BrowserRouter>
       <Navbar />
